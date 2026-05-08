@@ -45,27 +45,6 @@
 
 ---
 
-## Featured Projects
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Thy281/unix-system-health-shield">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thy281&repo=unix-system-health-shield&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF4D4D&bg_color=0d0d0d&border_color=2a2a2a" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Thy281/Thy281">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thy281&repo=Thy281&theme=dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF4D4D&bg_color=0d0d0d&border_color=2a2a2a" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## Statistics
 
 <div align="center">
