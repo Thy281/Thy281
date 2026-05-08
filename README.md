@@ -48,7 +48,7 @@
 ## Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thy281&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FF4D4D&text_color=FFFFFF&bg_color=0d0d0d&border_color=2a2a2a" alt="GitHub stats" />
+  <img width="360" style="border-radius:18px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ4bTdncnRtYmRtdGIwZXJrZjBtNWNkOTgzd2F2Z3h3dnZ5ZDVjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ijsYTyxaMzZh6/giphy.gif" alt="Statistics gif" />
   <img src="https://streak-stats.demolab.com?user=Thy281&theme=dark&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 </div>
 
