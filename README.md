@@ -17,9 +17,9 @@
         <div>
           <h1>Thy281</h1>
           <h3>Backend developer</h3>
-          <p><strong>17 anos</strong></p>
-          <p><strong>Brazil 🇧🇷</strong></p>
-          <p>Focused on Java, backend architecture and continuous evolution.</p>
+          <p><strong>𝟷𝟽 𝔜𝔢𝔞𝔯𝔰</strong></p>
+          <p><strong>𝔅𝔯𝔞𝔷𝔦𝔩 🇧🇷</strong></p>
+          <p>𝔉𝔬𝔠𝔲𝔰𝔢𝔡 𝔬𝔫 𝔍𝔞𝔳𝔞, 𝔟𝔞𝔠𝔨𝔢𝔫𝔡 𝔞𝔯𝔠𝔥𝔦𝔱𝔢𝔠𝔱𝔲𝔯𝔢 𝔞𝔫𝔡 𝔠𝔬𝔫𝔱𝔦𝔫𝔲𝔬𝔲𝔰 𝔢𝔳𝔬𝔩𝔲𝔱𝔦𝔬𝔫.</p>
         </div>
       </td>
       <td align="right" width="48%">
