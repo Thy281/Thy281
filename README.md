@@ -64,8 +64,10 @@ Besides programming, I enjoy learning about:
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Vim](https://skillicons.dev/icons?i=vim)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
+![Insomnia](https://skillicons.dev/icons?i=insomnia)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![MacOS](https://skillicons.dev/icons?i=apple)
@@ -84,7 +86,6 @@ Besides programming, I enjoy learning about:
 ## 🌐 Communities
 
 ![Discord](https://skillicons.dev/icons?i=discord)
-![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)
 ![Twitter](https://skillicons.dev/icons?i=twitter)
 
 ---
@@ -97,8 +98,6 @@ Besides programming, I enjoy learning about:
 [![Discord](https://img.shields.io/badge/Discord-thyy.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@me)
 [![Twitter](https://img.shields.io/badge/Twitter-@OThykkj75158-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OThykkj75158)
 [![GitHub](https://img.shields.io/badge/GitHub-Thy281-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thy281)
-
-`thy08281@gmail.com` • `thyy.` • `@OThykkj75158`
 
 </div>
 
