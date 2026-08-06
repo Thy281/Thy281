@@ -148,11 +148,6 @@ Besides programming, I enjoy learning about:
 
 <br><br>
 
-<img
-  src="./profile-3d-contrib/profile-night-green.svg"
-  alt="3D GitHub contribution graph"
-/>
-
 </details>
 
 </div>
