@@ -118,13 +118,11 @@ Besides programming, I enjoy learning about:
 <br><br>
 
 <img
-  height="180em"
   src="https://github-stats-extended.vercel.app/api?username=Thy281&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
   alt="GitHub Stats"
 />
 
 <img
-  height="180em"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thy281&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
   alt="Top Languages"
 />
