@@ -4,28 +4,22 @@
 
 <img src="https://komarev.com/ghpvc/?username=Thy281&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thy281&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
 
 ## 👤 About Me
 
-Hi, I'm **Gabriel** 👋
+Hi, I'm **Hugo** 👋
 
-I'm 16 years old and I'm from Brazil 🇧🇷.
-
-I've been coding since I was 12. I currently work with **HTML, CSS, JavaScript, Python, and React**, and I'm interested in **low-level programming, cybersecurity, pentesting, and full-stack development**.
+I'm 18 years old and I'm from Brazil 🇧🇷.
 
 ### 🌱 Interests
 
 Besides programming, I enjoy learning about:
 - 🔐 Cybersecurity, logic, and problem solving
 - 🏛️ Ancient history, especially Ancient Egypt
-- ✝️ Religious traditions such as Christianity, Buddhism, and Hinduism
-- 👁️ Occultism, Hermeticism, symbolism, ancient philosophical traditions, and groups like Freemasonry
-- 📚 Theology, philosophy, and different religious traditions
-
 ---
 
 ## 🚀 Stack
@@ -40,9 +34,9 @@ Besides programming, I enjoy learning about:
 ## 🔧 Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![VSCode](https://skillicons.dev/icons?i=intellij)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Windows](https://skillicons.dev/icons?i=windows)
+![MacOS](https://skillicons.dev/icons?i=macos)
 ![Obsidian](https://skillicons.dev/icons?i=obsidian)
 
 ## 🌐 Communities
