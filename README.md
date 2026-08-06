@@ -56,6 +56,7 @@ Besides programming, I enjoy learning about:
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Vim](https://skillicons.dev/icons?i=vim)
 <img src="https://cdn.simpleicons.org/burpsuite" width="48" />
+<img src="https://cdn.simpleicons.org/wireshark" width="48" />
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
