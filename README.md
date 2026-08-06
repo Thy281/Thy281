@@ -36,17 +36,8 @@ Besides programming, I enjoy learning about:
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![React](https://skillicons.dev/icons?i=react)
-![Python](https://skillicons.dev/icons?i=python)
-![Go](https://skillicons.dev/icons?i=go)
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 
 ## 🗄️ Databases & Infrastructure
 
