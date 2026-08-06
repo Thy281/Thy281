@@ -43,7 +43,6 @@ Besides programming, I enjoy learning about:
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://skillicons.dev/icons?i=redis)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![NGINX](https://skillicons.dev/icons?i=nginx)
@@ -55,10 +54,8 @@ Besides programming, I enjoy learning about:
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-![SQLMap](https://img.shields.io/badge/SQLMap-222222?style=for-the-badge&logo=gnubash&logoColor=white)
-![XSS](https://img.shields.io/badge/XSS-CC0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Vim](https://skillicons.dev/icons?i=vim)
+<img src="https://cdn.simpleicons.org/burpsuite" width="48" />
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
