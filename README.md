@@ -49,7 +49,6 @@ Besides programming, I enjoy learning about:
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![AWS](https://skillicons.dev/icons?i=aws)
 
 ## 🔧 Tools & Development Environment
 
