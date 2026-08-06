@@ -67,7 +67,6 @@ Besides programming, I enjoy learning about:
 ![Vim](https://skillicons.dev/icons?i=vim)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Insomnia](https://skillicons.dev/icons?i=insomnia)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Maven](https://skillicons.dev/icons?i=maven)
 ![MacOS](https://skillicons.dev/icons?i=apple)
