@@ -1,16 +1,15 @@
 
 <div align="center">
 
-```text
-hugo@dev:~$ whoami
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=HUGO%20QUESADA&fontSize=38&fontColor=c9d1d9&fontAlignY=55&fontAlign=50&desc=SOFTWARE%20DEVELOPER%20%2F%20BRAZIL&descAlignY=78&descSize=13&descColor=8b949e&font=Courier%20New" alt="Hugo Quesada"/>
 
-Hugo Quesada
-Software Developer · Brazil
+```text id="ev98fy"
+> SYSTEM INITIALIZED
+> USER: HUGO QUESADA
+> STATUS: ONLINE
 ```
 
-### Building, learning, improving.
-
-<sub>Software Development / Machine Learning / Infrastructure</sub>
+<sub>Building, learning, improving.</sub>
 
 <br>
 
@@ -20,21 +19,25 @@ Software Developer · Brazil
 
 ---
 
-### ~/about
+### 01 / ABOUT
 
-I'm Hugo, a developer from Brazil interested in software engineering, intelligent systems, and technology.
+```text id="c4b2w9"
+hugo@dev:~$ cat about.txt
+```
 
-I enjoy understanding how things work, exploring different areas of computing, and building projects that turn ideas into working solutions.
+I'm Hugo, a software developer from Brazil.
 
-Currently learning more about machine learning, computer vision, and data.
+Focused on **Machine Learning**, **Java & Spring Boot**, and **Infrastructure**.
+
+I enjoy exploring technology, understanding how systems work, and building practical solutions.
 
 ---
 
-### ~/stack
+### 02 / TECHNOLOGIES
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=java,python,ts,c,cpp&theme=dark)
+![Languages](https://skillicons.dev/icons?i=java,python,c&theme=dark)
 
 **Frameworks & Libraries**
 
@@ -44,60 +47,43 @@ Currently learning more about machine learning, computer vision, and data.
 
 ![Infrastructure](https://skillicons.dev/icons?i=postgres,mysql,redis,docker,nginx,linux&theme=dark)
 
-**Tools**
+**Development Tools**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,idea,vscode,postman,maven,arduino,apple&theme=dark)
 
 ---
 
-### ~/currently-exploring
+### 03 / GITHUB
 
-```text
-[01] Machine Learning
-[02] Computer Vision
-[03] Data Engineering & Analysis
-[04] Backend Architecture
-[05] Linux & Infrastructure
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Thy281&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thy281&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top Languages"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thy281&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 04 / CONTACT
+
+<div align="center">
+
+[EMAIL](mailto:thy08281@gmail.com) &nbsp; / &nbsp;
+[GITHUB](https://github.com/Thy281) &nbsp; / &nbsp;
+[X](https://x.com/OThykkj75158)
+
+<br><br>
+
+```text id="fx2k3a"
+hugo@dev:~$ exit
+Connection closed.
 ```
 
----
-
-### ~/activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thy281&theme=github-dark&area=true&hide_border=true&color=8b949e&line=58a6ff&point=8b949e&area_color=1f6feb" width="100%" alt="GitHub activity graph"/>
-
-<details>
-<summary>More statistics</summary>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thy281&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-
-<br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Thy281&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-
-</details>
+<sub>© 2026 Hugo Quesada</sub>
 
 </div>
-
----
-
-### ~/connect
-
-<div align="center">
-
-[Email](mailto:thy08281@gmail.com) · [GitHub](https://github.com/Thy281) · [X / Twitter](https://x.com/OThykkj75158)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>hugo@dev:~$ exit</sub>
-
-</div>
-  
