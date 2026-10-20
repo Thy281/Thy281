@@ -11,10 +11,6 @@
 
 <sub>Building, learning, improving.</sub>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Thy281&color=30363d&style=flat-square&label=profile+views" alt="Profile views"/>
-
 </div>
 
 ---
